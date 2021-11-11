@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fitcru</string>
+    
+    <string name="lbl_nutrition_tracking">Nutrition Tracking</string>
+    <string name="lbl_foods">Food</string>
+    <string name="lbl_protiens">Protiens</string>
+    <string name="lbl_fat">Fat</string>
+    <string name="lbl_carbs">Carbs</string>
+
+</resources>
